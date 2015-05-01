@@ -2,12 +2,12 @@
 
 body, table, form, input, td, th, p, textarea, select {
   font-family: Verdana, Helvetica, sans-serif;
-  font-size: 10px;
+  font-size: 11px;
 }
 
  #task-link, #side-panel-content {
   font-family: Verdana, Helvetica, sans-serif;
-  font-size: 10px;
+  font-size: 11px;
 }
 
 #main-table {
