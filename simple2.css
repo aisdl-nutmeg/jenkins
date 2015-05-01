@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body, table, form, input, td, th, p, textarea, select {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+ #task-link, #side-panel-content {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+#main-table {
+  background-image: none !important;
+}
