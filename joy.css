@@ -16,9 +16,17 @@ body, table, form, input, td, th, p, textarea, select {
 
 .bigtable td {
     vertical-align: middle;
-    padding: 2px 2px;
+    padding: 1px 1px;
 }
 
 #side-panel-content .task-link {
     vertical-align: middle;
+}
+
+.icon-lg {
+  width: 24px;
+  height: 24px;
+}
+  
+  
 }
