@@ -24,7 +24,16 @@ body, table, form, input, td, th, p, textarea, select {
     vertical-align: middle;
 }
 
-.icon-lg {
+#side-panel-content .task {
+    margin-bottom: 0px;
+}
+
+.icon-blue {
+  width: 24px;
+  height: 24px;
+}
+
+.icon-yellow {
   width: 24px;
   height: 24px;
 }
