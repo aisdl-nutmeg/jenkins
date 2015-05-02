@@ -20,10 +20,6 @@
 +    padding: 1px 1px;
 +}
 +
-+#side-panel-content .task-link {
-+    vertical-align: middle;
-+}
-+
-+#side-panel-content {
-+    margin-bottom: 0px;
++.task, .task-link {
++    margin-bottom: 1px;
 +}
