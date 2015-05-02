@@ -3,6 +3,7 @@
 body, table, form, input, td, th, p, textarea, select {
   font-family: Verdana, Helvetica, sans-serif;
   font-size: 11px;
+  margin-bottom: 1px;
 }
 
  #task-link, #side-panel-content {
